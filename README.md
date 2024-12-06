@@ -1,5 +1,9 @@
 # POMO-TERMINAL
-A simple pomodoro timer made for terminal users
+A simple pomodoro timer made for terminal users.
+
+## What is special about it?
+1. Pomo-terminal offers a simple yet effective interface
+2. Pomo-terminal offers a timer display made with a seven-segments display for numbers
 
 ## To Run
 1. Download the repository
